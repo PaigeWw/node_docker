@@ -1,0 +1,10 @@
+{
+  "name": "node_docker",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
